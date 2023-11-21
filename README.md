@@ -35,3 +35,7 @@ Compares Balances and Objects: Compares the balances of the two accounts and che
 
 Summary:
 In summary, the Bank class encapsulates the properties and behaviors of an individual bank account, and the BankClient class demonstrates the use of the Bank class by creating instances, performing operations, and displaying account information. The code promotes encapsulation and demonstrates the concept of object-oriented programming in a banking context.
+
+
+UML:
+There is also a UML diagram that displays the class name, properties, constructors, and methods. 
